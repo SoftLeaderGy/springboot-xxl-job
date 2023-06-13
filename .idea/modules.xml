@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/springboot-xxl-job.iml" filepath="$PROJECT_DIR$/.idea/springboot-xxl-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/start-boot-job/start-job.iml" filepath="$PROJECT_DIR$/start-boot-job/start-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxl-job-2.4.0/xxl-job.iml" filepath="$PROJECT_DIR$/xxl-job-2.4.0/xxl-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxl-job-2.4.0/xxl-job-admin/xxl-job-admin.iml" filepath="$PROJECT_DIR$/xxl-job-2.4.0/xxl-job-admin/xxl-job-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxl-job-2.4.0/xxl-job-core/xxl-job-core.iml" filepath="$PROJECT_DIR$/xxl-job-2.4.0/xxl-job-core/xxl-job-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxl-job-2.4.0/xxl-job-executor-samples/xxl-job-executor-sample-frameless/xxl-job-executor-sample-frameless.iml" filepath="$PROJECT_DIR$/xxl-job-2.4.0/xxl-job-executor-samples/xxl-job-executor-sample-frameless/xxl-job-executor-sample-frameless.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxl-job-2.4.0/xxl-job-executor-samples/xxl-job-executor-sample-springboot/xxl-job-executor-sample-springboot.iml" filepath="$PROJECT_DIR$/xxl-job-2.4.0/xxl-job-executor-samples/xxl-job-executor-sample-springboot/xxl-job-executor-sample-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxl-job-2.4.0/xxl-job-executor-samples/xxl-job-executor-samples.iml" filepath="$PROJECT_DIR$/xxl-job-2.4.0/xxl-job-executor-samples/xxl-job-executor-samples.iml" />
+    </modules>
+  </component>
+</project>
