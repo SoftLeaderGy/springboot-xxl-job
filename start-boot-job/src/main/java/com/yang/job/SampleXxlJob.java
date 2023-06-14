@@ -36,7 +36,6 @@ public class SampleXxlJob {
     public void demoJobHandler(){
         // 需要执行的任务业务代码
         log.info("xxl-job hello world");
-        XxlJobHelper.log("xxl-job hello world");
     }
 
     /**
